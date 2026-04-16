@@ -8,7 +8,7 @@
 
 Rank Math SEO Pro Free transforms your WordPress site’s search presence. Combine the best of dozens of SEO tools into one dashboard and let smart automation do the heavy lifting. This beta release gives you **free, full access** to every Pro feature—track unlimited keywords, build advanced schemas, monitor rankings, and more.
 
-**🎥 Watch the Demo:** [Click here to view the video](https://github.com/user-attachments/assets/ee833d73-442b-4a39-8bc3-8e20167cf864) 
+https://github.com/user-attachments/assets/60c7eea9-7d75-433a-8f6c-4608fbc7bcc4
 
 
 ---
